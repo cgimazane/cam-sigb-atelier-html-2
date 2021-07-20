@@ -21,4 +21,6 @@ Sessions :
 
 # Plan Atelier html
 
-*
+* Rappels
+* html
+* css
